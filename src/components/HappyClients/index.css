@@ -1,0 +1,49 @@
+.happy-clients-container {
+  background-color: #1d4a35;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.happy-clients-heading {
+  color: #ffffff;
+}
+.happy-clients-carousel {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+  margin-right: 200px;
+  width: 800px;
+  align-items: center;
+}
+.slider-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.slider-description {
+  color: #c4c0c0;
+  font-size: 20px;
+}
+.slider-name {
+  color: #ffffff;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+.slider-founder {
+  color: #ffffff;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+.slider-bite {
+  color: #ffffff;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+.happy-clients-images {
+  border-radius: 50px;
+  width: 100px;
+  height: 100px;
+  margin-left: 450px;
+}

@@ -1,0 +1,24 @@
+.slick-slider {
+  width: 1000px;
+  position: absolute;
+  margin-left: 200px;
+}
+.client-heading {
+  text-align: center;
+}
+.clients-images {
+  width: 100px;
+  height: 100px;
+}
+.slick-next::before {
+  color: #082714;
+  width: 30px;
+  padding-right: 20px;
+  cursor: pointer;
+}
+.slick-prev::before {
+  color: #082714;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}

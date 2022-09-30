@@ -1,0 +1,76 @@
+.operating-system-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.operating-system-inside-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.operating-system-image {
+  padding-right: 30px;
+}
+.operating-system-img {
+  width: 500px;
+  height: 500px;
+  padding-top: 75px;
+}
+.operating-system-description {
+  color: grey;
+}
+.payments-os {
+  display: flex;
+  flex-direction: row;
+}
+.integration {
+  display: flex;
+  flex-direction: column;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  margin-right: 30px;
+  padding-left: 5px;
+  height: 110px;
+}
+.works-on {
+  display: flex;
+  flex-direction: column;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding-left: 5px;
+  width: 220px;
+  height: 110px;
+}
+.integration-container {
+  display: flex;
+  flex-direction: row;
+}
+.works-on-container {
+  display: flex;
+  flex-direction: row;
+}
+.payments-os-heading {
+  font-size: 20px;
+  font-weight: 500;
+}
+.payment-os-image {
+  padding: 5px;
+}
+.operating-system-processing {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 50px;
+}
+.operating-system-processing-containers {
+  display: flex;
+  flex-direction: column;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.processing-image {
+  width: 130px;
+  height: 130px;
+}
+.heading-process {
+  font-size: 15px;
+  font-weight: 700;
+}

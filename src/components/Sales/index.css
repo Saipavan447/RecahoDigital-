@@ -1,0 +1,41 @@
+.sales-container {
+  background-image: url('https://tmbill.com/img/tmbill_Company_highlights.jpg');
+  background-size: cover;
+  margin-top: 150px;
+  height: 250px;
+  width: 100%;
+}
+.sales-container-image {
+  background-color: rgba(29, 74, 53, 0.85);
+  height: 250px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.sales-description-container1 {
+  color: #ffffff;
+  margin-right: 70px;
+}
+.sales-description-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #ffffff;
+  margin: 30px;
+}
+.sales-image {
+  width: 100px;
+}
+.sales-heading {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.sales-paragraph {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.sales-paragraph1 {
+  margin-top: 30px;
+}

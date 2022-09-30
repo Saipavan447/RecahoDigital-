@@ -1,0 +1,39 @@
+.registration-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.registration-description {
+  display: flex;
+  flex-direction: column;
+}
+.registration-heading {
+  font-size: 45px;
+}
+.green-heading {
+  color: #8dc231;
+}
+.registration-button-container {
+  display: flex;
+  flex-direction: row;
+}
+.demo {
+  background-color: #1d4a35;
+}
+.read {
+  background-color: #8dc231;
+}
+.button {
+  color: #ffffff;
+  width: 150px;
+  height: 40px;
+  border-radius: 2px;
+  border-style: none;
+  margin: 2px;
+}
+.registration-image {
+  width: 500px;
+  height: 500px;
+  margin-left: 70px;
+}

@@ -1,0 +1,74 @@
+.take-demo-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.register-for-restaurant {
+  display: flex;
+  flex-direction: row;
+}
+.register-form-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+  border: 1px solid #e0dbdb;
+  width: 450px;
+  border-radius: 5px;
+}
+.take-demo-inputs {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 40px;
+  border: 1px solid #e0dbdb;
+  color: #d8d3d3;
+  padding: 10px;
+}
+.country-codes-input-container {
+  display: flex;
+  flex-direction: row;
+}
+.country-drop {
+  margin-left: 20px;
+  margin-top: 20px;
+  height: 40px;
+  border: 1px solid #e0dbdb;
+  color: #838080;
+  padding: 10px;
+  width: 200px;
+  cursor: pointer;
+}
+.phone-number {
+  margin-right: 20px;
+  margin-top: 20px;
+  height: 40px;
+  border: 1px solid #e0dbdb;
+  color: #d8d3d3;
+  padding: 10px;
+  width: 210px;
+}
+select {
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+select:focus {
+  outline: none;
+}
+.take-demo-button {
+  color: #ffffff;
+  width: 100px;
+  height: 40px;
+  margin: 20px;
+  background-color: #1d4a35;
+  border: #1d4a35;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.demo-image {
+  height: 350px;
+  padding-top: 100px;
+}
